@@ -1,0 +1,4 @@
+git
+bash
+neovim
+python3
